@@ -1,0 +1,4 @@
+Augmentor
+requests 
+pillow 
+opencv-python
